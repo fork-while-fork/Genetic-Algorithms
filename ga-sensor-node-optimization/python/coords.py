@@ -1,3 +1,7 @@
+"""
+These are the coordinates used in the paper (ga-paper.pdf)
+
+"""
 coords = [(0,0), (7,6), (6,16),
            (19,16), (10,8), (18,2),
            (10,10),
